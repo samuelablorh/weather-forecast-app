@@ -1,6 +1,6 @@
-# JhayWeather - Weather Forecast Website
+# WeatherForecast Website
 
-JhayWeather is a weather forecast website that provides users with accurate and up-to-date weather information for any location. It is built using React and utilizes the OpenWeather API to retrieve weather data.
+A weather forecast website that provides users with accurate and up-to-date weather information for any location. It is built using React and utilizes the OpenWeather API to retrieve weather data.
 
 ## Features
 
