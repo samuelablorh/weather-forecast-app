@@ -1,7 +1,7 @@
 {
   "name": "jhay_weather",
   "version": "0.1.0",
-  "homepage": "https://jhayphix.github.io/jhay-weather",
+  "homepage": "https://samuelablorh.github.io/weather-forecast-app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
